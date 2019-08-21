@@ -4,7 +4,6 @@ import (
 	"../models"
 	u "../utils"
 	"encoding/json"
-	"fmt"
 	"github.com/gorilla/mux"
 	"net/http"
 	"strconv"
